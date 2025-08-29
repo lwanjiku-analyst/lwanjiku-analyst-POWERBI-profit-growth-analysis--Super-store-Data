@@ -1,12 +1,12 @@
 # lwanjiku-analyst-quarterly-profit-growth-analysis--Super-store-Data
 lwanjiku-analyst/quarterly-profit-growth-analysis--Super-store-Data
 
-I undertook this project to answer the business question: **Which Category Contributed the Most to Profit Growth Over the Quarters?**
 
 To achieve this, I built an Area Chart visualization in Power BI (profit_growth_area.png). The chart illustrates quarterly profit growth across the three categories — Furniture, Office Supplies, and Technology.
 ##  Profit Growth by Quarter & Category  
 
 **Visualization Used:** Area Chart  
+I undertook this project to answer the business question: **Which Category Contributed the Most to Profit Growth Over the Quarters?**
 
 ![Profit Growth by Quarter & Category](profit_growth_area.png)  
 
