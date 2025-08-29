@@ -54,7 +54,7 @@ This visualization provided a clear comparative view of how each category drove 
 
 ## Heatmap Analysis  
 
-**Question:** Which sub-categories and regions contribute the most and least to overall profit?  
+**Question:** **Which sub-categories and regions contribute the most and least to overall profit?**
 
 **Visualization Used:** Heatmap  
 
