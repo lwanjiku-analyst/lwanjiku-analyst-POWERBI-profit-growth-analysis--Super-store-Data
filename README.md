@@ -50,6 +50,8 @@ This visualization provided a clear comparative view of how each category drove 
 - **Western & Central Europe** show a secondary but meaningful cluster.
 - **Sparse activity** in Africa, South America, and Australia → limited penetration or smaller orders.
 - Pattern suggests advantages in **market maturity, logistics, and customer density** in the U.S. and select EU hubs.
+## 🔗 Dashboard Access  
+[Click here to view the interactive Power BI dashboard](https://app.powerbi.com/links/EAC4Qne9Qk?ctid=51aa8f26-2e23-4b8c-bca8-7cc441adc4df&pbi_source=linkShare)  
 
 
 ## Heatmap Analysis  
