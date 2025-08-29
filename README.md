@@ -38,7 +38,22 @@ This visualization provided a clear comparative view of how each category drove 
 
 **Insight:**  
 - Profits are dominated by the **West and East regions**, showing these as key markets.  
-- **Central region** underperforms, signaling opportunities for deeper market research and targeted strategies.  
+- **Central region** underperforms, signaling opportunities for deeper market research and targeted strategies.
+
+  ### 8. Profit by City (Map)
+
+**Which cities drive the highest profit, and how is profit geographically concentrated?**
+![Profit by City](profit_by_city.png)
+
+**Analysis**
+- Profit is **densest across U.S. cities** (North America cluster) — primary revenue engine.
+- **Western & Central Europe** show a secondary but meaningful cluster.
+- **Sparse activity** in Africa, South America, and Australia → limited penetration or smaller orders.
+- Pattern suggests advantages in **market maturity, logistics, and customer density** in the U.S. and select EU hubs.
+
+
+
+
 
 
 
