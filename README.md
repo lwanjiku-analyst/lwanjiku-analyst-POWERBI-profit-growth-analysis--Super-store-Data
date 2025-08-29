@@ -29,7 +29,7 @@ This visualization provided a clear comparative view of how each category drove 
 
 **Question Answered:**  
 **Which region contributed the most to overall profit, and how do profits compare across regions?** 
-
+![Profit by Region](profit_by_region.png)  
 **Analysis:**  
 - **West Region**: Highest profit at **~$111K**.  
 - **East Region**: Strong performance with **~$95K**.  
@@ -40,7 +40,7 @@ This visualization provided a clear comparative view of how each category drove 
 - Profits are dominated by the **West and East regions**, showing these as key markets.  
 - **Central region** underperforms, signaling opportunities for deeper market research and targeted strategies.  
 
-![Profit by Region](profit_by_region.png)  
+
 
 
 
