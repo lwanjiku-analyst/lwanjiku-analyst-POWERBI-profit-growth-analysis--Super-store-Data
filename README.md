@@ -40,7 +40,7 @@ This visualization provided a clear comparative view of how each category drove 
 - Profits are dominated by the **West and East regions**, showing these as key markets.  
 - **Central region** underperforms, signaling opportunities for deeper market research and targeted strategies.
 
-  ### 8. Profit by City (Map)
+  ###  Profit by City (Map)
 
 **Which cities drive the highest profit, and how is profit geographically concentrated?**
 ![Profit by City](profit_by_city.png)
