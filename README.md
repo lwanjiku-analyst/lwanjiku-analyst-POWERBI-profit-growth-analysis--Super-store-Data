@@ -21,3 +21,30 @@ To achieve this, I built an Area Chart visualization in Power BI (profit_growth_
 **Insight:**  
 Technology showed **consistent leadership in profit growth**, ending with a major spike in Q4. Office Supplies delivered **steady, reliable growth** across all quarters, while Furniture’s contribution remained **minor but positive**. 
 This visualization provided a clear comparative view of how each category drove profitability over time, enabling better strategic focus on the most profitable segments.
+
+
+###  Profit by Region  
+
+**Visualization Used:** Bar Chart  
+
+**Question Answered:**  
+**Which region contributed the most to overall profit, and how do profits compare across regions?** 
+
+**Analysis:**  
+- **West Region**: Highest profit at **~$111K**.  
+- **East Region**: Strong performance with **~$95K**.  
+- **South Region**: Mid-level profit of **~$47K**.  
+- **Central Region**: Lowest profit at **~$40K**.  
+
+**Insight:**  
+- Profits are dominated by the **West and East regions**, showing these as key markets.  
+- **Central region** underperforms, signaling opportunities for deeper market research and targeted strategies.  
+
+![Profit by Region](profit_by_region.png)  
+
+
+
+
+
+
+
