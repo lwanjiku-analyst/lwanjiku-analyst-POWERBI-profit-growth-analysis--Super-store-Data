@@ -52,7 +52,24 @@ This visualization provided a clear comparative view of how each category drove 
 - Pattern suggests advantages in **market maturity, logistics, and customer density** in the U.S. and select EU hubs.
 
 
+## Heatmap Analysis  
 
+**Question:** Which sub-categories and regions contribute the most and least to overall profit?  
+
+**Visualization Used:** Heatmap  
+
+![Heatmap Analysis](heatmap_analysis.png)
+
+**Analysis:**  
+- Chairs, Binders, and Paper are the top contributors, especially in the **East region**.  
+- Tables, Bookcases, and Supplies show **consistent losses**, with Tables recording the **largest negative profit (-$11.3K)**.  
+- The **East ($38.1K)** and **West ($36.0K)** regions drive most of the overall profitability, while Central trails behind at ~$10.2K.  
+
+This heatmap highlights where profitability is strongest and reveals sub-categories that need strategic improvement.  
+
+##  Dashboard Access  
+
+[Click here to view the interactive Power BI dashboard](https://app.powerbi.com/links/dHSnjgjmhb?ctid=51aa8f26-2e23-4b8c-bca8-7cc441adc4df&pbi_source=linkShare)  
 
 
 
