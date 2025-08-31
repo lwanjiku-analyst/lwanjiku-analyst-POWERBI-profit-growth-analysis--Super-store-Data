@@ -1,8 +1,8 @@
 
-## Interactive visualizations built from the Global Superstore dataset, showcasing profit trends across categories, regions, and time.This project highlights how modern BI tools can transform raw data into actionable business insights
+### I built Interactive visualizations  from the Global Superstore dataset, showcasing profit trends across categories, regions, and time.This project highlights how modern BI tools can transform raw data into actionable business insights
 
 
-##  Profit Growth by Quarter & Category  
+### Profit Growth by Quarter & Category  
 
 **ViZ:** Area Chart  
 
