@@ -1,12 +1,12 @@
-# lwanjiku-analyst-quarterly-profit-growth-analysis--Super-store-Data
-lwanjiku-analyst/quarterly-profit-growth-analysis--Super-store-Data
+
+## Interactive dashboards and visualizations built from the Global Superstore dataset, showcasing sales and profit trends across categories, regions, and time.This project highlights how modern BI tools can transform raw data into actionable business insights##
 
 
-To achieve this, I built an Area Chart visualization in Power BI (profit_growth_area.png). The chart illustrates quarterly profit growth across the three categories — Furniture, Office Supplies, and Technology.
 ##  Profit Growth by Quarter & Category  
 
-**Visualization Used:** Area Chart  
-I undertook this project to answer the business question: **Which Category Contributed the Most to Profit Growth Over the Quarters?**
+**ViZ:** Area Chart  
+
+ **Which Category Contributed the Most to Profit Growth Over the Quarters?**
 
 ![Profit Growth by Quarter & Category](profit_growth_area.png)  
 
@@ -17,18 +17,18 @@ I undertook this project to answer the business question: **Which Category Contr
 - **Q3:** Technology ($33.6K) and Office Supplies ($33.6K) continued to expand, while Furniture (~$7.0K) stayed relatively small.  
 - **Q4:** Technology surged to ~$59.4K, Office Supplies to ~$46.0K, and Furniture reached ~$7.6K.  
 
-
 **Insight:**  
 Technology showed **consistent leadership in profit growth**, ending with a major spike in Q4. Office Supplies delivered **steady, reliable growth** across all quarters, while Furniture’s contribution remained **minor but positive**. 
 This visualization provided a clear comparative view of how each category drove profitability over time, enabling better strategic focus on the most profitable segments.
 
 
+
 ###  Profit by Region  
 
-**Visualization Used:** Bar Chart  
+**ViZ:** Bar Chart  
 
-**Question Answered:**  
-**Which region contributed the most to overall profit, and how do profits compare across regions?** 
+**Which region contributed the most to overall profit, and how do profits compare across regions?**
+
 ![Profit by Region](profit_by_region.png)  
 **Analysis:**  
 - **West Region**: Highest profit at **~$111K**.  
@@ -40,9 +40,14 @@ This visualization provided a clear comparative view of how each category drove 
 - Profits are dominated by the **West and East regions**, showing these as key markets.  
 - **Central region** underperforms, signaling opportunities for deeper market research and targeted strategies.
 
+  
+
   ###  Profit by City (Map)
 
 **Which cities drive the highest profit, and how is profit geographically concentrated?**
+
+**ViZ** Map
+
 ![Profit by City](profit_by_city.png)
 
 **Analysis**
@@ -56,9 +61,9 @@ This visualization provided a clear comparative view of how each category drove 
 
 ## Heatmap Analysis  
 
-**Question:** **Which sub-categories and regions contribute the most and least to overall profit?**
+**Which sub-categories and regions contribute the most and least to overall profit?**
 
-**Visualization Used:** Heatmap  
+**ViZ:** Heatmap  
 
 ![Heatmap Analysis](heatmap_analysis.png)
 
